@@ -31,5 +31,5 @@ pub struct QueryOptions {
 pub struct UpdateTodoSchema {
     pub title: Option<String>,
     pub content: Option<String>,
-    pub completed: Option<bool
+    pub completed: Option<bool>,
 }
